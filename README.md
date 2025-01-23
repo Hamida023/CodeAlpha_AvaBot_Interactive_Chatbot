@@ -1,6 +1,6 @@
 AvaBot Chatbot with Emojis
 Description:
-AvaBot is an enhanced text-based chatbot that interacts with users in a natural and engaging way. It utilizes various natural language processing (NLP) techniques and features to provide meaningful and delightful conversations.
+AvaBot is an enhanced text-based chatbot that interacts with users in a natural and engaging way. It utilizes various natural language processing (NLP) techniques and features to provide meaningful and delightful conversations.https://github.com/Hamida023/CodeAlpha_AvaBot_Interactive_Chatbot/blob/main/AvaBot%20girl%20in%20pink%20hoodie.png?raw=true
 
 Features:
 •	Natural Language Processing: Utilizes NLTK (Natural Language Toolkit) for tokenization and lemmatization to preprocess user inputs for better pattern matching.
